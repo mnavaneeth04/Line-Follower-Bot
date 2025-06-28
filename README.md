@@ -1,4 +1,4 @@
-# 🤖 Arduino Line Follower Robot
+# 🤖Line Follower Robot
 
 This repository contains the code and circuit setup for a simple **line follower robot** using an **Arduino Uno**, **IR sensors**, and an **L293D motor driver**. The robot is designed to follow a black line on a white surface by constantly reading input from two IR sensors and adjusting its motors accordingly.
 
